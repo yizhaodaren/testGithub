@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"release1添加1");
+    
+    
     // Do any additional setup after loading the view.
 }
 
