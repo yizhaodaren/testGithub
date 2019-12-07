@@ -12,6 +12,8 @@
 
 @interface AppDelegate ()
 
+//主线添加新功能4 放置奇兵
+
 @end
 
 @implementation AppDelegate
