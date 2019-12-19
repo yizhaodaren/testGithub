@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
-
+//测试1
 int main(int argc, char * argv[]) {
     NSString * appDelegateClassName;
     @autoreleasepool {
