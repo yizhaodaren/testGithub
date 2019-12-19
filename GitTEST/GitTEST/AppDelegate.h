@@ -9,6 +9,6 @@
 //master1
 #import <UIKit/UIKit.h>
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
-//炒作1
+
 @end
 

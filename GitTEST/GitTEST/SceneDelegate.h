@@ -7,7 +7,7 @@
 //
 //master3
 #import <UIKit/UIKit.h>
-//炒作1
+
 @interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
 
 @property (strong, nonatomic) UIWindow * window;

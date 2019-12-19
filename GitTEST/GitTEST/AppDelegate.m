@@ -9,7 +9,7 @@
 //master2
 
 #import "AppDelegate.h"
-//炒作2
+
 @interface AppDelegate ()
 
 
