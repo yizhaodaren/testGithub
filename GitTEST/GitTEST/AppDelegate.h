@@ -7,18 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-//dev 1
-
-//dev2222
-
-//dev333
-
-//dev444
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-//dev dd
-
 
 @end
 

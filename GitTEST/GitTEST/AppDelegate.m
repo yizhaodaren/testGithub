@@ -7,12 +7,12 @@
 //
 
 
-//主线添加新功能3 特效
+
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
 
-//主线添加新功能4 放置奇兵
+
 
 @end
 
